@@ -1,3 +1,3 @@
 # alldev
-different programs
+different programs - проекты разных напрвлений
 copyinZIP.php - Копирует рабочий проект в резервную папку,   zip архив, вместе c скрытыми папками и файлами.
